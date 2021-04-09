@@ -1,13 +1,6 @@
-# RIVALDO
-
-![](https://static.blog4ever.com/2014/12/790899/artfichier_790899_4395796_201412222413205.jpg | width=100)
-
-
-
-
 **Organisation projet :**
 
-## Partie I : Conception de l’application
+### Partie I : Conception de l’application
 Dossier technique de l’application permettant de répondre aux spécifications 
 énoncées ci-dessous. Ce dossier comportera : 
   - la liste des composants de l’application Angular avec un descriptif pour chaque
@@ -18,10 +11,11 @@ le but de chaque route.
 
 Taille indicative du dossier : **4 pages**
 
-## Partie II : Développement d’une maquette de l’application
+### Partie II : Développement d’une maquette de l’application
 Maquette de la solution. Elle devra donner une image fidèle de la solution
 réelle ensuite déployée.
 
+## CONSIGNES : 
 Version 1 – Build my playlist
 Le système fonctionne sur la base de descriptions de morceaux de musiques qui peuvent être triés pour former une
 playlist. On définira à ce stade que :
