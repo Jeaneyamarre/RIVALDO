@@ -32,3 +32,15 @@ b) La liste des playlists apparait en page d’accueil de l’application et on 
   son contenu. Le fait qu’un utilisateur clique sur une liste fait augmenter son « nombre de clics ».
   A ce stade, les playlists ne sont pas modifiables.
   Note : Un seul style de musique est autorisé pour une playlist donnée.
+  
+  **Version 2 – Share my playlist**
+Faciliter la recherche et le tri des playlists pour les visiteurs de l’application.
+
+a) Pouvoir trier les playlists par ordre :
+  a. Alphabétique (+ inverse) du nom de playlist
+  b. Nombre (+ inverse) de clics
+  c. Alphabétique (+ inverse) du style
+  
+b) On doit également proposer sur la page un filtre de recherche full-text sur :
+  a. nom de la playlist
+  b. style de musique
