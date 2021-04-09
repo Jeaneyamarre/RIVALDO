@@ -66,3 +66,6 @@ La page « principale » devra être restructurée pour rendre accessibles les p
 modules de recherches par créateur, nom de playlist ou style de musique. Le fait de cliquer sur un des résultats
 permettra l’accès aux pages décrites ci-dessus (exemple, en cliquant sur un créateur on va à la page « partielle » de
 ce créateur).
+
+
+**Date de l’évaluation : 16/04/2021**
