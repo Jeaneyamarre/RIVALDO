@@ -44,3 +44,12 @@ a) Pouvoir trier les playlists par ordre :
 b) On doit également proposer sur la page un filtre de recherche full-text sur :
   a. nom de la playlist
   b. style de musique
+  
+  **Version 3 – Edit my Playlist**
+Pouvoir jouter des fonctions contributives pour l’édition de playlists.
+
+Chaque utilisateur doit pouvoir éditer une playlist de son choix,2 opérations  permises :
+  a) Supprimer playlist
+  b) Ajout morceau(x) à la playlist
+Note : Lors d’opérations de modifications, le nom du contributeur doit être ajouté à la liste de contributeurs de la
+playlist.
