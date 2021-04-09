@@ -53,3 +53,16 @@ Chaque utilisateur doit pouvoir éditer une playlist de son choix,2 opérations 
   b) Ajout morceau(x) à la playlist
 Note : Lors d’opérations de modifications, le nom du contributeur doit être ajouté à la liste de contributeurs de la
 playlist.
+
+**Version 4 – Last One**
+Faciliter  partage de playlists en restructurant la page d’accueil de l’application.
+
+a) Avoir une page « partielle » par utilisateur. Cette page contiendra la liste des playlists
+créées par l’utilisateur
+
+b) Un second type de page sera axé sur les styles et contiendra la liste des playlists du style choisi.
+
+La page « principale » devra être restructurée pour rendre accessibles les pages précédentes via des
+modules de recherches par créateur, nom de playlist ou style de musique. Le fait de cliquer sur un des résultats
+permettra l’accès aux pages décrites ci-dessus (exemple, en cliquant sur un créateur on va à la page « partielle » de
+ce créateur).
